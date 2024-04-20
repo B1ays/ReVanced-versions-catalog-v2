@@ -31,7 +31,7 @@
     "Icon href": "apps/GmsCore/icon.png",
     "NonRoot": {
       "Package name": "app.revanced.android.gms",
-      "Catalog href": "/apps/GmsCore/nonRoot/Catalog.json"
+      "Catalog href": "/apps/GmsCore/versions/Catalog.json"
     }
   }
 ]
