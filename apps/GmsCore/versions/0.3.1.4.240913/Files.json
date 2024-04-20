@@ -3,12 +3,12 @@
     {
       "Apk name": "app.revanced.android.gms-240913008",
       "Short description": "For non Huawei devices",
-      "Apk url": ""
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/GmsCore_0.3.1.4.240913/app.revanced.android.gms-240913008-hw.apk"
     },
     {
       "Apk name": "app.revanced.android.gms-240913008-hw",
       "Short description": "For Huawei devices",
-      "Apk url": ""
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/GmsCore_0.3.1.4.240913/app.revanced.android.gms-240913008-hw.apk"
     }
   ]
 }
