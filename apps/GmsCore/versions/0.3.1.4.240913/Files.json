@@ -1,0 +1,14 @@
+{
+  "Files": [
+    {
+      "Apk name": "app.revanced.android.gms-240913008",
+      "Short description": "For non Huawei devices",
+      "Apk url": ""
+    },
+    {
+      "Apk name": "app.revanced.android.gms-240913008-hw",
+      "Short description": "For Huawei devices",
+      "Apk url": ""
+    }
+  ]
+}

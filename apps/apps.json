@@ -1,0 +1,37 @@
+[
+  {
+    "Title": "YouTube Revanced",
+    "Description": "Patches maintained by anddea",
+    "Icon href": "/apps/YouTube ReVanced/icon.png",
+    "NonRoot": {
+      "Package name": "app.rvx.android.youtube",
+      "Catalog href": "/apps/YouTube ReVanced/nonRoot/Catalog.json"
+    },
+    "Root": {
+      "Package name": "com.google.android.youtube",
+      "Catalog href": "/apps/YouTube ReVanced/root/Catalog.json"
+    }
+  },
+  {
+    "Title": "YouTube Music Revanced",
+    "Description": "Patches maintained by anddea",
+    "Icon href": "apps/YouTube Music ReVanced/icon.png",
+    "NonRoot": {
+      "Package name": "app.rvx.android.apps.youtube.music",
+      "Catalog href": "/apps/YouTube Music ReVanced/nonRoot/Catalog.json"
+    },
+    "Root": {
+      "Package name": "com.google.android.apps.youtube.music",
+      "Catalog href": "/apps/YouTube Music ReVanced/root/Catalog.json"
+    }
+  },
+  {
+    "Title": "GmsCore",
+    "Description": "Allow patched Google apps to run without root and under a different package name using GmsCore instead of Google Play Services",
+    "Icon href": "apps/GmsCore/icon.png",
+    "NonRoot": {
+      "Package name": "app.revanced.android.gms",
+      "Catalog href": "/apps/GmsCore/nonRoot/Catalog.json"
+    }
+  }
+]
