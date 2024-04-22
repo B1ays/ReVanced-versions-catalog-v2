@@ -33,5 +33,32 @@
       "Package name": "app.revanced.android.gms",
       "Catalog href": "/apps/GmsCore/versions/Catalog.json"
     }
+  },
+  {
+    "Title": "Tumblr ReVanced",
+    "Description": "",
+    "Icon href": "apps/Tumblr/icon.png",
+    "NonRoot": {
+      "Package name": "com.tumblr",
+      "Catalog href": "/apps/Tumblr/versions/Catalog.json"
+    }
+  },
+  {
+    "Title": "Reddit ReVanced",
+    "Description": "",
+    "Icon href": "apps/Reddit/icon.png",
+    "NonRoot": {
+      "Package name": "com.reddit.frontpage",
+      "Catalog href": "/apps/Reddit/versions/Catalog.json"
+    }
+  },
+  {
+    "Title": "X (ex. Twitter) ReVanced",
+    "Description": "",
+    "Icon href": "apps/X/icon.png",
+    "NonRoot": {
+      "Package name": "com.twitter.android",
+      "Catalog href": "/apps/X/versions/Catalog.json"
+    }
   }
 ]

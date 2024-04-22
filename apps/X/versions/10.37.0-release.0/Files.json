@@ -1,0 +1,14 @@
+{
+  "Files": [
+    {
+      "Apk name": "[noMonet]x-revanced_v10.37.0-release.0-patches_v4.7.0",
+      "Short description": "Without dynamic colors on Android 12+",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/X_10.37.0-release.0/noMonet.x-revanced_v10.37.0-release.0-patches_v4.7.0.apk"
+    },
+    {
+      "Apk name": "[Monet]x-revanced_v10.37.0-release.0-patches_v4.7.0",
+      "Short description": "With dynamic colors on Android 12+",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/X_10.37.0-release.0/Monet.x-revanced_v10.37.0-release.0-patches_v4.7.0.apk"
+    }
+  ]
+}
