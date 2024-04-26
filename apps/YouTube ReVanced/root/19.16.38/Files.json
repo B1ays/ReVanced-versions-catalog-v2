@@ -1,0 +1,25 @@
+{
+  "Original apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YouTube_Revanced_19.16.38_2.224.0/com.google.android.youtube_19.16.38-1545729472_minAPI26.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk",
+  "Files": [
+    {
+      "Apk name": "[BL]ReVanced_black_root_19.16.38_2.224.0",
+      "Short description": "Root version with Blays icon and black theme",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YouTube_Revanced_19.16.38_2.224.0/BL.ReVanced_black_root_19.16.38_2.224.0.apk"
+    },
+    {
+      "Apk name": "[MMT]ReVanced_black_root_19.16.38_2.224.0",
+      "Short description": "Root version with MMT icon and black theme",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YouTube_Revanced_19.16.38_2.224.0/MMT.ReVanced_black_root_19.16.38_2.224.0.apk"
+    },
+    {
+      "Apk name": "[RV]ReVanced_black_root_19.16.38_2.224.0",
+      "Short description": "Root version with Revancify icon and black theme",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YouTube_Revanced_19.16.38_2.224.0/RV.ReVanced_black_root_19.16.38_2.224.0.apk"
+    },
+    {
+      "Apk name": "[OG]ReVanced_black_root_19.16.38_2.224.0",
+      "Short description": "Root version with original icon and black theme",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YouTube_Revanced_19.16.38_2.224.0/OG.ReVanced_black_root_19.16.38_2.224.0.apk"
+    }
+  ]
+}
