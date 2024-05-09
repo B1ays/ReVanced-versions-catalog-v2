@@ -1,3 +1,8 @@
-### Non Provided
-
-### Не предоставлено
+<messages>
+    <en>
+        #### Non Provided
+    </en>
+    <ru>
+        #### Не предоставлено
+    </ru>
+</messages>
