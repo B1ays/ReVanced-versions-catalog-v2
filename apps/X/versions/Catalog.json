@@ -1,9 +1,16 @@
 [
   {
+    "Version": "10.46.1-release.0",
+    "Build date": "25.06.24",
+    "Patches version": "4.10.0",
+    "Changelog href": "/apps/X/versions/10.46.1-release.0/Changelog.xml",
+    "Apk list href": "/apps/X/versions/10.46.1-release.0/Files.json"
+  },
+  {
     "Version": "10.37.0-release.0",
     "Build date": "22.04.24",
     "Patches version": "4.7.0",
     "Changelog href": "/apps/X/versions/10.37.0-release.0/Changelog.xml",
-    "Apk list href": "apps/X/versions/10.37.0-release.0/Files.json"
+    "Apk list href": "/apps/X/versions/10.37.0-release.0/Files.json"
   }
 ]

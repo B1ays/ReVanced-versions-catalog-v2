@@ -1,0 +1,24 @@
+{
+  "Files": [
+    {
+      "Apk name": "[AFN]RVX_Music_root_7.06.53_4.9.2",
+      "Short description": "Non-root version with AFN blue icon",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YM_7.06.53_4.9.2/AFN.RVX_Music_non-root_7.06.53_4.9.2.apk"
+    },
+    {
+      "Apk name": "[MMT]RVX_Music_root_7.06.53_4.9.2",
+      "Short description": "Non-root version with MMT icon",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YM_7.06.53_4.9.2/MMT.RVX_Music_non-root_7.06.53_4.9.2.apk"
+    },
+	{
+      "Apk name": "[RV]RVX_Music_root_7.06.53_4.9.2",
+      "Short description": "Non-root version with Revancify icon",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YM_7.06.53_4.9.2/RV.RVX_Music_non-root_7.06.53_4.9.2.apk"
+    },
+    {
+      "Apk name": "[OG]RVX_Music_root_7.06.53_4.9.2",
+      "Short description": "Non-root version with original icon",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/YM_7.06.53_4.9.2/OG.RVX_Music_non-root_7.06.53_4.9.2.apk"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Files": [
+    {
+      "Apk name": "X_10.46.1-release.0_4.10.0",
+      "Short description": "Standart theme",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/X_10.46.1-release.0/X_10.46.1-release.0_4.10.0.apk"
+    },
+    {
+      "Apk name": "X_10.46.1-release.0_4.10.0_DynamicColors",
+      "Short description": "With dynamic colors on Android 12+",
+      "Apk url": "https://github.com/B1ays/ReVanced-versions-catalog-v2/releases/download/X_10.46.1-release.0/X_10.46.1-release.0_4.10.0_DynamicColors.apk"
+    }
+  ]
+}

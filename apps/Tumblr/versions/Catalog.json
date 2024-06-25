@@ -1,9 +1,16 @@
 [
   {
+    "Version": "35.1.0.110",
+    "Build date": "25.06.24",
+    "Patches version": "4.10.0",
+    "Changelog href": "/apps/Tumblr/versions/35.1.0.110/Changelog.xml",
+    "Apk list href": "/apps/Tumblr/versions/35.1.0.110/Files.json"
+  },
+  {
     "Version": "34.1.0.110",
     "Build date": "22.04.24",
     "Patches version": "4.7.0",
     "Changelog href": "/apps/Tumblr/versions/34.1.0.110/Changelog.xml",
-    "Apk list href": "apps/Tumblr/versions/34.1.0.110/Files.json"
+    "Apk list href": "/apps/Tumblr/versions/34.1.0.110/Files.json"
   }
 ]
