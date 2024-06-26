@@ -17,7 +17,7 @@
     "Description": "Patches maintained by anddea",
     "Icon href": "apps/YouTube Music ReVanced/icon.png",
     "NonRoot": {
-      "Package name": "anddea.youtube.music",
+      "Package name": "app.rvx.android.apps.youtube.music",
       "Catalog href": "/apps/YouTube Music ReVanced/nonRoot/Catalog.json"
     },
     "Root": {
