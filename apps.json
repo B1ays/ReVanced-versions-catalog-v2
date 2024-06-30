@@ -1,7 +1,11 @@
 [
   {
     "Title": "YouTube Revanced",
-    "Description": "Patches maintained by anddea",
+    "Description": "Modified YouTube client with disabled ads and many other features",
+    "Description_locales": {
+      "default": "Modified YouTube client with disabled ads and many other features",
+      "ru": "Модифицированный клиент YouTube с отключенной рекламой и множеством прочих функций"
+    },
     "Icon href": "/apps/YouTube ReVanced/icon.png",
     "NonRoot": {
       "Package name": "app.rvx.android.youtube",
@@ -14,7 +18,11 @@
   },
   {
     "Title": "YouTube Music Revanced",
-    "Description": "Patches maintained by anddea",
+    "Description": "Modified YouTube Music client with background play and other features",
+    "Description_locales": {
+      "default": "Modified YouTube Music client with background play and other features",
+      "ru": "Модифицированный клиент YouTube Music с фоновым воспроизведением и прочими функциями"
+    },
     "Icon href": "apps/YouTube Music ReVanced/icon.png",
     "NonRoot": {
       "Package name": "app.rvx.android.apps.youtube.music",
@@ -28,6 +36,10 @@
   {
     "Title": "GmsCore",
     "Description": "Allow patched Google apps to run without root and under a different package name using GmsCore instead of Google Play Services",
+    "Description_locales": {
+      "default": "Allow patched Google apps to run without root and under a different package name using GmsCore instead of Google Play Services",
+      "ru": "Позволяет патченым приложениям от Google работать без root прав и с другим именем пакета используя GmsCore вместо сервисов Google Play"
+    },
     "Icon href": "apps/GmsCore/icon.png",
     "NonRoot": {
       "Package name": "app.revanced.android.gms",
@@ -36,7 +48,11 @@
   },
   {
     "Title": "Tumblr ReVanced",
-    "Description": "",
+    "Description": "Modified Tumblr client with disabled ads and annoying notifications",
+    "Description_locales": {
+      "default": "Modified Tumblr client with disabled ads and annoying notifications",
+      "ru": "Модифицированный клиент Tumblr с отключенной рекламой и навязчивыми уведомлениями"
+    },
     "Icon href": "apps/Tumblr/icon.png",
     "NonRoot": {
       "Package name": "com.tumblr",
@@ -45,7 +61,11 @@
   },
   {
     "Title": "Reddit ReVanced",
-    "Description": "",
+    "Description": "Modified Reddit client with disabled ads",
+    "Description_locales": {
+      "default": "Modified Reddit client with disabled ads",
+      "ru": "Модифицированный клиент Reddit с отключенной рекламой"
+    },
     "Icon href": "apps/Reddit/icon.png",
     "NonRoot": {
       "Package name": "com.reddit.frontpage",
@@ -54,7 +74,11 @@
   },
   {
     "Title": "X (ex. Twitter) ReVanced",
-    "Description": "",
+    "Description": "Modified X client with disabled ads and unlocked video download",
+    "Description_locales": {
+      "default": "Modified X client with disabled ads and unlocked video download",
+      "ru": "Модифицированный клиент X с отключенной рекламой и разблокированной загрузкой видео"
+    },
     "Icon href": "apps/X/icon.png",
     "NonRoot": {
       "Package name": "com.twitter.android",
